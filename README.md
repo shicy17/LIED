@@ -1,5 +1,7 @@
-# LIED For academic use only.
+# LIED 
 Copyright© Beihang_Vision_Navigation Group. All rights reserved.
+
+For academic use only.
 
 All the data are in aedat4 format by DAVIS346 sensor, which includes events, frames and IMU data. They can be viewed and decoded by DV software(https://inivation.gitlab.io/dv/dv-docs/) and DV-python (https://gitlab.com/inivation/dv/dv-python)
 
