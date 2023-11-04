@@ -3,7 +3,7 @@ Copyright© Beihang_Vision_Navigation Group. All rights reserved.
 
 For academic use only.
 
-All the data are in aedat4 format by DAVIS346 sensor, which includes events, frames and IMU data. They can be viewed and decoded by DV software(https://inivation.gitlab.io/dv/dv-docs/) and DV-python (https://gitlab.com/inivation/dv/dv-python)
+All the data are recorded by DAVIS346 sensor, which includes events, frames and IMU data. They can be viewed and decoded by DV software(https://inivation.gitlab.io/dv/dv-docs/) and DV-python (https://gitlab.com/inivation/dv/dv-python)
 
 We proposed the Light Interferences Event Datasets (LIED), it has three categories of light interferences, including strobe light sources, non-strobe light sources and scattered or reflected light. Moreover, to make the datasets contain more realistic scenarios, the datasets include the dynamic objects and the situation of camera static and the camera moving.
 
