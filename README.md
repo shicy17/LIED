@@ -24,7 +24,7 @@ BibTex:
 ****
 # :star:ELIR Method
 We propose ELIR (Event-based Light Interference Removal) method for removing light interference signals in event streams under static and dynamic scenes.
-
+![image text](https://github.com/shicy17/LIED/blob/main/Demonstration/02_EFR.gif)
 ****
 # :boom:LIED Dataset
 
