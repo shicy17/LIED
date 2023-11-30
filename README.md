@@ -23,11 +23,11 @@ BibTex
   doi={10.1109/TCSVT.2023.3335457}}  
 
 ****
-# ELIR Method
+# 👉ELIR Method
 We propose ELIR (Event-based Light Interference Removal) method for removing light interference signals in event streams under static and dynamic scenes.
 
 ****
-# LIED Dataset
+# 👉LIED Dataset
 
 All the data are recorded by DAVIS346 sensor, which includes events, frames and IMU data. They can be viewed and decoded by DV software(https://inivation.gitlab.io/dv/dv-docs/) and DV-python (https://gitlab.com/inivation/dv/dv-python)
 
