@@ -1,4 +1,4 @@
-# ELIR Method and LIED Dataset 
+# Identifying Light Interference in Event-Based Vision
 Copyright© Beihang_Vision_Navigation Group. All rights reserved.
 
 For academic use only.
