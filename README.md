@@ -6,7 +6,7 @@ For academic use only.
 ****
 # 👉Citation   
 
-Citations are welcome, and if you use our proposed LIED dataset or consider ELIR method as a baseline method for your articles, please cite our article that available at https://ieeexplore.ieee.org/document/10325523.
+Citations are welcome, and if you use our proposed LIED dataset or consider ELIR method as a baseline method for your articles, please cite our article that available at [ELIR](https://ieeexplore.ieee.org/document/10325523).
 
 C. Shi et al., "Identifying Light Interference in Event-Based Vision," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2023.3335457.
 
@@ -23,8 +23,19 @@ BibTex:
 
 ****
 # :star:ELIR Method
-We propose ELIR (Event-based Light Interference Removal) method for removing light interference signals in event streams under static and dynamic scenes.
-![image text](https://github.com/shicy17/LIED/blob/main/Demonstration/02_Ori.gif "Original frame")![image text](https://github.com/shicy17/LIED/blob/main/Demonstration/02_EFR.gif "EFR method")![image text](https://github.com/shicy17/LIED/blob/main/Demonstration/02_Ours.gif "Our ELIR method")  
+We propose ELIR (Event-based Light Interference Removal) method for removing light interference signals in event streams under static and dynamic scenes.  
+
+We demonstrate the performance of our ELIR method on [EFR dataset](https://github.com/ziweiWWANG/EFR) and our proposed LIED dataset.
+
+:dizzy:Our LIED dataset demonstration  
+
+![Original event frame](https://drive.google.com/file/d/1G8RiuAw-2yv1AJ5nkbU9RHieBJCVqXbs/view?usp=drive_link)
+![ELIR method](https://drive.google.com/file/d/1bMqvy3GvOGU1Hsuko9Bwn0aA4MmWz9JA/view?usp=drive_link)  
+
+:dizzy:EFR dataset demonstration  
+<img src="https://github.com/shicy17/LIED/blob/main/Demonstration/02_Ori.gif" width="320" height="240"><img src="https://github.com/shicy17/LIED/blob/main/Demonstration/02_Ours.gif" width="320" height="240">  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Original event frame&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our ELIR method
+
 ****
 # :boom:LIED Dataset
 
