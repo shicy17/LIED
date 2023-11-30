@@ -10,8 +10,7 @@ Citations are welcome, and if you use all or part of our codes in a published ar
 
 C. Shi et al., "Identifying Light Interference in Event-Based Vision," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2023.3335457.
 
-BibTex
-
+BibTex:  
 @ARTICLE{10325523,  
   author={Shi, Chenyang and Li, Yuzhen and Song, Ningfang and Wei, Boyi and Zhang, Yibo and Li, Wenzhuo and Jin, Jing},  
   journal={IEEE Transactions on Circuits and Systems for Video Technology},   
