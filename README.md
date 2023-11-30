@@ -12,15 +12,15 @@ C. Shi et al., "Identifying Light Interference in Event-Based Vision," in IEEE T
 
 BibTex
 
-@ARTICLE{10325523,
-  author={Shi, Chenyang and Li, Yuzhen and Song, Ningfang and Wei, Boyi and Zhang, Yibo and Li, Wenzhuo and Jin, Jing},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={Identifying Light Interference in Event-Based Vision}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TCSVT.2023.3335457}}
+@ARTICLE{10325523, 
+  author={Shi, Chenyang and Li, Yuzhen and Song, Ningfang and Wei, Boyi and Zhang, Yibo and Li, Wenzhuo and Jin, Jing}, 
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},  
+  title={Identifying Light Interference in Event-Based Vision},  
+  year={2023}, 
+  volume={}, 
+  number={}, 
+  pages={1-1}, 
+  doi={10.1109/TCSVT.2023.3335457}} 
 
 ****
 # ELIR Method
