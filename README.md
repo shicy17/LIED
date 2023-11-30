@@ -6,7 +6,7 @@ For academic use only.
 ****
 # 👉Citation   
 
-Citations are welcome, and if you use all or part of our codes in a published article or project, please cite our article that available at https://ieeexplore.ieee.org/document/10325523.
+Citations are welcome, and if you use our proposed LIED dataset or consider ELIR method as a baseline method, please cite our article that available at https://ieeexplore.ieee.org/document/10325523.
 
 C. Shi et al., "Identifying Light Interference in Event-Based Vision," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2023.3335457.
 
