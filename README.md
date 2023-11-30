@@ -1,7 +1,33 @@
-# LIED 
+# ELIR Method and LIED Dataset 
 Copyright© Beihang_Vision_Navigation Group. All rights reserved.
 
 For academic use only.
+
+****
+# 👉Citation   
+
+Citations are welcome, and if you use all or part of our codes in a published article or project, please cite our article that available at https://ieeexplore.ieee.org/document/10325523.
+
+C. Shi et al., "Identifying Light Interference in Event-Based Vision," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2023.3335457.
+
+BibTex
+
+@ARTICLE{10325523,
+  author={Shi, Chenyang and Li, Yuzhen and Song, Ningfang and Wei, Boyi and Zhang, Yibo and Li, Wenzhuo and Jin, Jing},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Identifying Light Interference in Event-Based Vision}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCSVT.2023.3335457}}
+
+****
+# ELIR Method
+We propose ELIR (Event-based Light Interference Removal) method for removing light interference signals in event streams under static and dynamic scenes.
+
+****
+# LIED Dataset
 
 All the data are recorded by DAVIS346 sensor, which includes events, frames and IMU data. They can be viewed and decoded by DV software(https://inivation.gitlab.io/dv/dv-docs/) and DV-python (https://gitlab.com/inivation/dv/dv-python)
 
