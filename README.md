@@ -26,7 +26,7 @@ BibTex:
 ****
 # :star:ELIR Method
 
-We demonstrate the performance of our ELIR method on our proposed **LIED** dataset and [EFR dataset](https://github.com/ziweiWWANG/EFR).
+We demonstrate the performance of our ELIR method on our proposed **LIED** dataset and [EFR dataset](https://github.com/ziweiWWANG/EFR). For detailed implementation of ELIR method, please check our paper.
 ****
 **:dizzy:Demonstration on our proposed LIED dataset**  
 
