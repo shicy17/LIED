@@ -3,6 +3,7 @@ Copyright© Beihang_Vision_Navigation Group. All rights reserved.
 
 For academic use only.
 
+We propose **ELIR** (Event-based Light Interference Removal) method for removing light interference signals in event streams under static and dynamic scenes.  Meawhile, we luanch **LIED** dataset for evaluating light interference removal performance.
 ****
 # 👉Citation   
 
@@ -24,16 +25,15 @@ BibTex:
 ```
 ****
 # :star:ELIR Method
-We propose **ELIR** (Event-based Light Interference Removal) method for removing light interference signals in event streams under static and dynamic scenes.  
 
 We demonstrate the performance of our ELIR method on our proposed **LIED** dataset and [EFR dataset](https://github.com/ziweiWWANG/EFR).
 ****
-**:dizzy:Our LIED dataset demonstration**  
+**:dizzy:Demonstration on our proposed LIED dataset**  
 
 <img src="https://github.com/shicy17/LIED/assets/83962935/eda3442a-aee8-4efc-bdbe-47b04e2b72f1" width="320" height="240"><img src="https://github.com/shicy17/LIED/assets/83962935/fa1cb68c-dd98-49c6-b19b-3bb83f922fdd" width="320" height="240">  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Original event frame](https://drive.google.com/file/d/1G8RiuAw-2yv1AJ5nkbU9RHieBJCVqXbs/view?usp=drive_link)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Our ELIR method](https://drive.google.com/file/d/1bMqvy3GvOGU1Hsuko9Bwn0aA4MmWz9JA/view?usp=drive_link)
 ****
-**:dizzy:EFR dataset demonstration**  
+**:dizzy:Demonstration on EFR dataset**  
 
 <img src="https://github.com/shicy17/LIED/blob/main/Demonstration/02_Ori.gif" width="320" height="240"><img src="https://github.com/shicy17/LIED/blob/main/Demonstration/02_Ours.gif" width="320" height="240">  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Original event frame&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our ELIR method
