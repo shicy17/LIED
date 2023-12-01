@@ -29,7 +29,6 @@ BibTex:
 We demonstrate the performance of our ELIR method on our proposed **LIED** dataset and [EFR dataset](https://github.com/ziweiWWANG/EFR).
 ****
 **:dizzy:Demonstration on our proposed LIED dataset**  
-<img src="https://github.com/shicy17/LIED/assets/83962935/f49b7613-0651-4a6a-abeb-b7d054039e7a" width="320" height="240"><img src="https://github.com/shicy17/LIED/assets/83962935/66010a29-0a9b-4612-a185-37ad74ede0f7" width="320" height="240"><img src="https://github.com/shicy17/LIED/assets/83962935/22c23526-a3cd-489d-bce7-e05422242ba4" width="320" height="240">  
 
 <img src="https://github.com/shicy17/LIED/assets/83962935/eda3442a-aee8-4efc-bdbe-47b04e2b72f1" width="320" height="240"><img src="https://github.com/shicy17/LIED/assets/83962935/fa1cb68c-dd98-49c6-b19b-3bb83f922fdd" width="320" height="240">  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Original event frame](https://drive.google.com/file/d/1G8RiuAw-2yv1AJ5nkbU9RHieBJCVqXbs/view?usp=drive_link)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Our ELIR method](https://drive.google.com/file/d/1bMqvy3GvOGU1Hsuko9Bwn0aA4MmWz9JA/view?usp=drive_link)
