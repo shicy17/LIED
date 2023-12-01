@@ -8,9 +8,9 @@ We propose **ELIR** (Event-based Light Interference Removal) method for removing
 # 👉Citation   
 
 Citations are welcome, and if you use our proposed LIED dataset or consider ELIR method as a baseline method for your articles, please cite our article that available at [ELIR](https://ieeexplore.ieee.org/document/10325523).
-
+```
 C. Shi et al., "Identifying Light Interference in Event-Based Vision," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2023.3335457.
-
+```
 BibTex:  
 ```
 @ARTICLE{10325523,  
