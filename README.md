@@ -57,4 +57,4 @@ LIED was recorded by the DAVIS346 sensor. It provides both frame and events with
 
 The first part contains all the light interferences we identified in the paper, including strobe light sources (halogen lamp), non-strobe light sources, scattered or reflected light and the edges of the light sources. Each of light interferences was recorded under fixed and moving condition. The second part is the extension of the first part, which includes both light interferences and moving objects (high-speed). The difference is that the second part is only recorded under hand-held condition. Among the most of the datasets, the hand-held camera is at a relatively high moving speed to track the dynamic object.
 
-The dataset is available at https://drive.google.com/drive/folders/1ZR7PVGOUy9accqPIGM2zCWcwzFW0XgiG?usp=sharing
+The dataset is available at https://drive.google.com/drive/folders/1ZR7PVGOUy9accqPIGM2zCWcwzFW0XgiG?usp=sharing and https://ieee-dataport.org/documents/light-interference-event-dataset
