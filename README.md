@@ -27,7 +27,7 @@ For detailed algorithmic implementation, please refer to the [paper](https://iee
 | Original event frame | Our ELIR method |
 |:---:|:---:|
 | <img src="https://github.com/shicy17/LIED/blob/main/Demonstration/orin.gif" width="320" height="240"> | <img src="https://github.com/shicy17/LIED/blob/main/Demonstration/removal.gif" width="320" height="240"> |
-| <img src="https://github.com/shicy17/LIED/blob/main/Demonstration/frame.gif" width="320" height="240"> (APS frame) | |
+| <img src="https://github.com/shicy17/LIED/blob/main/Demonstration/frame.gif" width="320" height="240">| |
 
 ### LIED — Sequence 9
 
